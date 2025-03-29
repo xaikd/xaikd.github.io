@@ -1,80 +1,66 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
+title: Tour
 date: 2022-10-24
+
 type: landing
 
 sections:
-  - block: hero
+  - block: slider
     content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
+      slides:
+      - title: Welcome to XAIKD Lab!
+        content:
+        align: center
+        background:
+          image:
+            filename: photo.jpeg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
     design:
-      view: card
-      columns: '1'
-  
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 4000
+
   - block: markdown
     content:
-      title:
+      title: XAIKD Lab
+      subtitle: 
+      text: |
+        Our Research Lab, **E**xplainable **A**rtificial **I**ntelligence **K**nowledge **D**iscovery(**XAIKD**) Lab, focuses on developing explainable machine learning models for cross-disciplinary studies, relevant topics include:
+
+        - **Explainable Artificial Intelligence**: Interpretable Neural Networks, Explainability in LLMs
+
+        - **AI for Science/Social Science**: AI4Labor Economics, AI4Talent Analytics
+
+        - **Data Mining**: Graph Modeling, Spatio-Temporal Modeling, Recommender Systems
+
+  - block: markdown
+    content:
+      title: News
       subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+        - **01/2025**: 1 paper accepted by WWW.  
+        - **01/2025**: 1 paper accepted by TOIS.  
+        - **11/2024**: 1 paper accepted by TOIS.  
+        - **09/2024**: 3 papers accepted by NeurIPS.  
+        - **07/2024**: 1 paper accepted by ACM MM.  
+        - **05/2024**: 2 papers accepted by KDD.  
+        - **03/2024**: 1 paper accepted by SIGIR.  
+        - **03/2024**: 1 paper accepted by DASFAA.  
+        - **02/2024**: 1 paper accepted by TOIS.  
+        - **01/2024**: 1 paper accepted by WWW-2024.  
+        - **12/2023**: 1 paper accepted by Nature Cities.  
+        - **10/2023**: 1 paper accepted by TOIS.  
+        - **08/2023**: 1 paper accepted by 《计算机研究与发展》.  
+        - **07/2023**: 1 paper accepted by ACM MM.  
+        - **06/2023**: 1 paper accepted by RecSys.  
+        - **06/2023**: 1 paper accepted by TOIS.  
+        - **04/2023**: 1 paper accepted by IJCAI.  
+
 ---

@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Ying Sun 孙莹
+title: Zheng Gong 龚政
 
 # Full Name (for SEO)
-first_name: Ying
-last_name: Sun
+first_name: Zheng
+last_name: Gong
 
 # Role/position
 # 这里写当前学历，入学年份和联合指导导师
 # 例如：
 # role: Ph.D. student '23
 # role: Ph.D. student '23, co-supervised by Prof. [Hui Xiong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIONG-Hui/xionghui)
-role: Assistant Professor
+role: Ph.D. student '23, co-supervised by Prof. [Hui Xiong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIONG-Hui/xionghui)
 
 # Organizations/Affiliations
 organizations:
@@ -19,37 +19,33 @@ organizations:
     url: https://ait.hkust-gz.edu.cn/
 
 interests:
-  - Explainable Artificial Intelligence
-  - AI for Science/Social Science
-  - Data Mining
+  - Language Language Model
+  - Graph Neural Network
 
 education:
   courses:
     # 这里不用写在读学历
-    - course: Ph.D. in Computer Science
-      institution: Institute of Computing Technology, Chinese Academy of Sciences
-    - course: B.Eng. in Software Engineering
-      institution: Beijing Institute of Technology
+    - course: Master in Computer Science
+      institution: University of Science and Technology of China
+    - course: B.Eng. in Computer Science
+      institution: University of Science and Technology of China
 
 # Social/Academic Networking
 # form "mailto:your-email@example.com" or "#contact" for contact widget.
 # 这部分选填，如果不写，请在 link: 后面留空
 social:
-  - icon: home
-    icon_pack: fas
-    link: https://sunyinggilly.github.io/
   - icon: envelope
     icon_pack: fas
-    link: mailto:yings@hkust-gz.edu.cn
+    link: mailto:zgong768@hkust-gz.edu.cn
   - icon: github
     icon_pack: fab
-    link: https://github.com/sunyinggilly
+    link: https://github.com/KellyGong
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=A9L70nUAAAAJ
+    link: https://scholar.google.com/citations?user=CQuOLaUAAAAJ
 
 # Organizational groups that you belong to (for People widget)
 # 可选项： [Faculty, Ph.D. Students, MPhil Students, Research Assistants]
 user_groups:
-  - Faculty
+  - Ph.D. Students
 ---

@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3637528.3671939,
+author = {Gong, Zheng and Sun, Ying},
+title = {An Energy-centric Framework for Category-free Out-of-distribution Node Detection in Graphs},
+year = {2024},
+isbn = {9798400704901},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3637528.3671939},
+doi = {10.1145/3637528.3671939},
+abstract = {Graph neural networks have garnered notable attention for effectively processing graph-structured data. Prevalent models prioritize improving in-distribution (IND) data performance, frequently overlooking the risks from potential out-of-distribution (OOD) nodes during training and inference. In real-world graphs, the automated network construction can introduce noisy nodes from unknown distributions. Previous research into OOD node detection, typically referred to as entropy-based methods, calculates OOD measurements from the prediction entropy alongside category classification training. However, the nodes in the graph might not be pre-labeled with specific categories, rendering entropy-based OOD detectors inapplicable in such category-free situations. To tackle this issue, we propose an energy-centric density estimation framework for OOD node detection, referred to as EnergyDef. Within this framework, we introduce an energy-based GNN to compute node energies that act as indicators of node density and reveal the OOD uncertainty of nodes. Importantly, EnergyDef can efficiently identify OOD nodes with low-resource OOD node annotations, achieved by sampling hallucinated nodes via Langevin Dynamics and structure estimation, along with training through Contrastive Divergence. Our comprehensive experiments on real-world datasets substantiate that our framework markedly surpasses state-of-the-art methods in terms of detection quality, even under conditions of scarce or entirely absent OOD node annotations.},
+booktitle = {Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+pages = {908–919},
+numpages = {12},
+keywords = {energy-based model, graph neural network, out-of-distribution node detection},
+location = {Barcelona, Spain},
+series = {KDD '24}
+}

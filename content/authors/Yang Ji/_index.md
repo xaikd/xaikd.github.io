@@ -14,7 +14,7 @@ superuser: true
 # 例如：
 # role: Ph.D. student '23
 # role: Ph.D. student '23, co-supervised by Prof. [Hui Xiong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIONG-Hui/xionghui)
-role: Ph.D. student '23, co-supervised by Prof. [Hui Xiong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIONG-Hui/xionghui)
+role: Ph.D. student '23
 
 # Organizations/Affiliations
 organizations:

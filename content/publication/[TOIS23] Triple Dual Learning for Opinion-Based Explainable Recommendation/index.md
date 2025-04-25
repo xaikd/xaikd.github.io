@@ -1,5 +1,5 @@
 ---
-title: '[TOIS24] Triple Dual Learning for Opinion-Based Explainable Recommendation'
+title: '[TOIS23] Triple Dual Learning for Opinion-Based Explainable Recommendation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

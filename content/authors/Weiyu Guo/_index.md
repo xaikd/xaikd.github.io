@@ -32,7 +32,7 @@ education:
     - course: Master in Aritifical Intelligence
       institution: University of Chinese Academy of Sciences
     - course: B.Eng. in Software Engineering
-      institution: BDalian University of Technology
+      institution: Dalian University of Technology
 
 # Social/Academic Networking
 # form "mailto:your-email@example.com" or "#contact" for contact widget.
@@ -40,7 +40,7 @@ education:
 social:
   - icon: home
     icon_pack: fas
-    link: weiyuguo.com
+    link: https://weiyuguo.com
   - icon: envelope
     icon_pack: fas
     link: mailto:guoweiyu96@gmail.com

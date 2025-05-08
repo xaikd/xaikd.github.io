@@ -45,6 +45,7 @@ sections:
       title: News
       subtitle: ''
       text: |
+        - **05/2025**: 5 papers accepted by ICML.
         - **01/2025**: 1 paper accepted by WWW.  
         - **01/2025**: 1 paper accepted by TOIS.  
         - **11/2024**: 1 paper accepted by TOIS.  

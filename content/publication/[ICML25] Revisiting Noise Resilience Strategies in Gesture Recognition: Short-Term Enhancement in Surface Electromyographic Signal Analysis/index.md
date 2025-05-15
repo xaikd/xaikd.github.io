@@ -4,7 +4,7 @@ title: '[ICML25] Revisiting Noise Resilience Strategies in Gesture Recognition: 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-authors: [Guo Weiyu, Ziyue Qiao, Ying Sun and Hui Xiong]
+authors: [Weiyu Guo, Ziyue Qiao, Ying Sun and Hui Xiong]
 
 # Author notes (optional)
 author_notes: []

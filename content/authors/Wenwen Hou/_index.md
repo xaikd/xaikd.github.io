@@ -10,7 +10,7 @@ last_name: Hou
 superuser: true
 
 # Role/position
-role: "MPhil student '24, co-supervised by Dr. [Hui Xiong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIONG-Hui/xionghui)"
+role: "MPhil student '24, co-supervise with Dr. [Hui Xiong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIONG-Hui/xionghui)"
 
 
 # Organizations/Affiliations

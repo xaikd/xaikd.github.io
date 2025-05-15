@@ -13,7 +13,7 @@ superuser: true
 # 这里写当前学历，入学年份和联合指导导师
 # 例如：
 # role: Ph.D. student '23
-# role: "Ph.D. student '23, co-supervised by Dr. [Hui Xiong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIONG-Hui/xionghui)"
+# role: "Ph.D. student '23, co-supervise with Dr. [Hui Xiong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIONG-Hui/xionghui)"
 role: Ph.D. student '24
 
 # Organizations/Affiliations

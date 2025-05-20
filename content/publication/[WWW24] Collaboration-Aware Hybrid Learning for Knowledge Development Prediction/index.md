@@ -39,8 +39,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3589334.3645326'
+url_code: 'https://github.com/liyichen-cly/CAHL'
 url_dataset: ''
 url_poster: ''
 url_project: ''
